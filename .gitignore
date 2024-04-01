@@ -1,0 +1,13 @@
+This is an ATM machine typescript program in which:
+user enter his/her name
+user set his/her pin
+user login through the pin
+Then,
+ATM program perform 3 operation:
+1) Check balance in user account
+2) Deposit amount in user account
+3) Withdraw amount from user account
+
+These transactions can be performed multiple times
+
+//Author: Muhammad Mehmood Ahmed

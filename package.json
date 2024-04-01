@@ -1,0 +1,20 @@
+{
+  "name": "atm-program",
+  "version": "1.0.0",
+  "description": "An ATM program with multiple transaction functionalities like check balance, withdraw, deposit",
+  "main": "index.js",
+  "type": "module",
+  "bin": "atm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Mehmood Ahmed",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
